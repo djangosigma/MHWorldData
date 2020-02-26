@@ -6,3 +6,5 @@ mhw.db
 
 # Libreoffice lock file
 .~lock.*
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
