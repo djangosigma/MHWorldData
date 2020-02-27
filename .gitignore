@@ -4,6 +4,9 @@ mhw.db
 .vscode
 /artifacts
 
+# Because different people may have different python versions, we don't commit the lockfile
+Pipfile.lock
+
 # Libreoffice lock file
 .~lock.*
 /.vs/ProjectSettings.json
