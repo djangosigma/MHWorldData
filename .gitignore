@@ -8,3 +8,5 @@ mhw.db
 .~lock.*
 /.vs/ProjectSettings.json
 /.vs/slnx.sqlite
+/.gitattributes
+/.vs
